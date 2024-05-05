@@ -1,4 +1,13 @@
 #Pasos a instalar
+
+Primero descargar java 
+
+https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+
+Descargamos el que dice 
+
+Windows x64 Installer
+
 Primero descargar netbeans 
 
 https://netbeans.apache.org/front/main/download/nb20/
